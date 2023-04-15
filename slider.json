@@ -1,16 +1,22 @@
 {
     "slidergithub": [
         {
-            "title": "X Scripts",
-            "description": "daffacial features, hairstyles, clothing, and more to suit your playstyle and preferences. Compatible with ESX . Click now to elevate your fivem server experience!",
-            "image": "https://cdn.discordapp.com/attachments/959968142816329738/1096864714073591888/Dx.png",
-            "url": "https://codify.tebex.io/package/5148618"
+            "title": "Loading Screen",
+            "description": "With a modern and beautiful design, you can do things such as authorities, server information, music status, game play, and make your server unique.",
+            "image": "https://cdn.discordapp.com/attachments/1058551951241007144/1058766522094452826/image.png",
+            "url": "https://debux.tebex.io/package/5448328"
         },
         {
-            "title": "Register Menu",
-            "description": "Register menu in-game character with ease using our Identify Creator for ESX FiveM. Unique design and best UI UX . Click now to elevate your fivem server experience!",
-            "image": "https://cdn.discordapp.com/attachments/1087922656067727481/1090428196794675310/register_menu.jpg",
-            "url": "https://codify.tebex.io/package/5098032"
+            "title": "Announce Script",
+            "description": "A unique script with a modern design, you can permanently announce important events on your server to players and attract attention.",
+            "image": "https://media.discordapp.net/attachments/1031244059186053220/1031640355101233152/unknown.png?width=1700&height=916",
+            "url": "https://debux.tebex.io/package/5342218"
+        },
+          {
+            "title": "Scratch Lottery",
+            "description": "A scratch system for your server, you can add it to your server and generate revenue by adding donate or you can entertain players by adding it to the market.",
+            "image": "https://media.discordapp.net/attachments/1093578197326639154/1093612891338453112/image.png?width=1229&height=691",
+            "url": "https://debux.tebex.io/package/5618112"
         }
     ]
 }
